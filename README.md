@@ -66,9 +66,9 @@ builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(conn
 Ejecutar desde la **Package Manager Console** con `Proyecto.BD` como proyecto por defecto, y `Proyecto.Server` como startup:
 
 ```
-add-migration Inicio -Project Proyecto.BD -StartupProject Proyecto.Server
+add-migration Inicio 
 ```
 
 ```
-Update-Database -Project Proyecto.BD -StartupProject Proyecto.Server
+Update-Database 
 ```
