@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F275535-C757-4989-8507-E7BB94A5C42F}|InstalacionProyecto.BD\\InstalacionProyecto.BD.csproj|c:\\users\\tonchi\\source\\repos\\instalacionproyecto\\instalacionproyecto.bd\\migrations\\20260507132020_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F275535-C757-4989-8507-E7BB94A5C42F}|InstalacionProyecto.BD\\InstalacionProyecto.BD.csproj|solutionrelative:instalacionproyecto.bd\\migrations\\20260507132020_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580499C6-255F-1FB2-D0D0-A44043ACCC50}|InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets.csproj|c:\\users\\tonchi\\source\\repos\\instalacionproyecto\\instalacionproyectonuggets\\instalacionproyectonuggets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580499C6-255F-1FB2-D0D0-A44043ACCC50}|InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets.csproj|solutionrelative:instalacionproyectonuggets\\instalacionproyectonuggets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580499C6-255F-1FB2-D0D0-A44043ACCC50}|InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets.csproj|c:\\users\\tonchi\\source\\repos\\instalacionproyecto\\instalacionproyectonuggets\\instalacionproyectonuggets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{580499C6-255F-1FB2-D0D0-A44043ACCC50}|InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets.csproj|solutionrelative:instalacionproyectonuggets\\instalacionproyectonuggets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CAE841-D0BA-4655-B496-B0AFAE91A3DF}|InstalacionProyecto.Repositorio\\InstalacionProyecto.Repositorio.csproj|c:\\users\\tonchi\\source\\repos\\instalacionproyecto\\instalacionproyecto.repositorio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CAE841-D0BA-4655-B496-B0AFAE91A3DF}|InstalacionProyecto.Repositorio\\InstalacionProyecto.Repositorio.csproj|solutionrelative:instalacionproyecto.repositorio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4FBE38-06A5-4978-BF99-80DAA8B79E34}|InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj|c:\\users\\tonchi\\source\\repos\\instalacionproyecto\\instalacionproyecto.servicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4FBE38-06A5-4978-BF99-80DAA8B79E34}|InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj|solutionrelative:instalacionproyecto.servicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3063229-938E-4003-A736-14C4A70F2E26}|InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj|c:\\users\\tonchi\\source\\repos\\instalacionproyecto\\instalacionproyecto.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3063229-938E-4003-A736-14C4A70F2E26}|InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj|solutionrelative:instalacionproyecto.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F275535-C757-4989-8507-E7BB94A5C42F}|InstalacionProyecto.BD\\InstalacionProyecto.BD.csproj|c:\\users\\tonchi\\source\\repos\\instalacionproyecto\\instalacionproyecto.bd\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F275535-C757-4989-8507-E7BB94A5C42F}|InstalacionProyecto.BD\\InstalacionProyecto.BD.csproj|solutionrelative:instalacionproyecto.bd\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260507132020_Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.BD\\Migrations\\20260507132020_Inicio.cs",
+              "RelativeDocumentMoniker": "InstalacionProyecto.BD\\Migrations\\20260507132020_Inicio.cs",
+              "ToolTip": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.BD\\Migrations\\20260507132020_Inicio.cs",
+              "RelativeToolTip": "InstalacionProyecto.BD\\Migrations\\20260507132020_Inicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:20:21.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\Program.cs",
+              "RelativeDocumentMoniker": "InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\Program.cs",
+              "ToolTip": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\Program.cs",
+              "RelativeToolTip": "InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:12:31.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\appsettings.json",
+              "RelativeDocumentMoniker": "InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\appsettings.json",
+              "RelativeToolTip": "InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T13:10:12.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Repositorio\\Class1.cs",
+              "RelativeDocumentMoniker": "InstalacionProyecto.Repositorio\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Repositorio\\Class1.cs",
+              "RelativeToolTip": "InstalacionProyecto.Repositorio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:43:30.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Servicios\\Class1.cs",
+              "RelativeDocumentMoniker": "InstalacionProyecto.Servicios\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Servicios\\Class1.cs",
+              "RelativeToolTip": "InstalacionProyecto.Servicios\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:42:59.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "InstalacionProyecto.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\Class1.cs",
+              "RelativeToolTip": "InstalacionProyecto.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:42:26.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.BD\\Class1.cs",
+              "RelativeDocumentMoniker": "InstalacionProyecto.BD\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.BD\\Class1.cs",
+              "RelativeToolTip": "InstalacionProyecto.BD\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:42:06.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

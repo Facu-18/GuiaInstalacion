@@ -1,0 +1,12 @@
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\bin\Debug\net10.0\InstalacionProyecto.Shared.deps.json
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\bin\Debug\net10.0\InstalacionProyecto.Shared.dll
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\bin\Debug\net10.0\InstalacionProyecto.Shared.pdb
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\obj\Debug\net10.0\InstalacionProyecto.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\obj\Debug\net10.0\InstalacionProyecto.Shared.AssemblyInfoInputs.cache
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\obj\Debug\net10.0\InstalacionProyecto.Shared.AssemblyInfo.cs
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\obj\Debug\net10.0\InstalacionProyecto.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\obj\Debug\net10.0\InstalacionProyecto.Shared.sourcelink.json
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\obj\Debug\net10.0\InstalacionProyecto.Shared.dll
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\obj\Debug\net10.0\refint\InstalacionProyecto.Shared.dll
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\obj\Debug\net10.0\InstalacionProyecto.Shared.pdb
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Shared\obj\Debug\net10.0\ref\InstalacionProyecto.Shared.dll

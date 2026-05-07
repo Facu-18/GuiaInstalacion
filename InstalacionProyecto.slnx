@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="InstalacionProyecto.BD/InstalacionProyecto.BD.csproj" Id="6f275535-c757-4989-8507-e7bb94a5c42f" />
+  <Project Path="InstalacionProyecto.Repositorio/InstalacionProyecto.Repositorio.csproj" Id="35cae841-d0ba-4655-b496-b0afae91a3df" />
+  <Project Path="InstalacionProyecto.Servicios/InstalacionProyecto.Servicios.csproj" Id="3f4fbe38-06a5-4978-bf99-80daa8b79e34" />
+  <Project Path="InstalacionProyecto.Shared/InstalacionProyecto.Shared.csproj" Id="b3063229-938e-4003-a736-14c4a70f2e26" />
+  <Project Path="InstalacionProyectoNuggets/InstalacionProyectoNuggets.Client/InstalacionProyectoNuggets.Client.csproj" />
+  <Project Path="InstalacionProyectoNuggets/InstalacionProyectoNuggets/InstalacionProyectoNuggets.csproj" />
+</Solution>

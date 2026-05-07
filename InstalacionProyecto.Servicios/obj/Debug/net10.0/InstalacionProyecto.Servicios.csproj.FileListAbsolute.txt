@@ -1,0 +1,16 @@
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\bin\Debug\net10.0\InstalacionProyecto.Servicios.deps.json
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\bin\Debug\net10.0\InstalacionProyecto.Servicios.dll
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\bin\Debug\net10.0\InstalacionProyecto.Servicios.pdb
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\bin\Debug\net10.0\InstalacionProyecto.Shared.dll
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\bin\Debug\net10.0\InstalacionProyecto.Shared.pdb
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\InstalacionProyecto.Servicios.csproj.AssemblyReference.cache
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\InstalacionProyecto.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\InstalacionProyecto.Servicios.AssemblyInfoInputs.cache
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\InstalacionProyecto.Servicios.AssemblyInfo.cs
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\InstalacionProyecto.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\InstalacionProyecto.Servicios.sourcelink.json
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\Instalac.D8237DD6.Up2Date
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\InstalacionProyecto.Servicios.dll
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\refint\InstalacionProyecto.Servicios.dll
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\InstalacionProyecto.Servicios.pdb
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyecto.Servicios\obj\Debug\net10.0\ref\InstalacionProyecto.Servicios.dll

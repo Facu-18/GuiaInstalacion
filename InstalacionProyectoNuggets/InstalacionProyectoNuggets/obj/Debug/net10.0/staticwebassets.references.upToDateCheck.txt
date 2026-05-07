@@ -1,0 +1,2 @@
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyectoNuggets\InstalacionProyectoNuggets.Client\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyectoNuggets\InstalacionProyectoNuggets.Client\obj\Debug\net10.0\staticwebassets.build.json
