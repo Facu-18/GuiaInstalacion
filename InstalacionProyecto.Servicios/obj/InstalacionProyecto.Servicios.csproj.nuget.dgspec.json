@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj": {}
+    "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj": {
+    "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj",
+        "projectUniqueName": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj",
         "projectName": "InstalacionProyecto.Servicios",
-        "projectPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj",
+        "projectPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Servicios\\InstalacionProyecto.Servicios.csproj",
         "packagesPath": "C:\\Users\\Tonchi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Servicios\\obj\\",
+        "outputPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Servicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {
-                "projectPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj"
+              "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {
+                "projectPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj"
               }
             }
           }
@@ -349,14 +349,14 @@
         }
       }
     },
-    "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {
+    "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj",
         "projectName": "InstalacionProyecto.Shared",
-        "projectPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj",
+        "projectPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj",
         "packagesPath": "C:\\Users\\Tonchi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

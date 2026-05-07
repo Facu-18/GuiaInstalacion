@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M8OshY22Z7I=",
+  "dgSpecHash": "UF/v5VoAESE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets.csproj",
+  "projectFilePath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tonchi\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Tonchi\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

@@ -1751,11 +1751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Repositorio\\InstalacionProyecto.Repositorio.csproj",
+      "projectUniqueName": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Repositorio\\InstalacionProyecto.Repositorio.csproj",
       "projectName": "InstalacionProyecto.Repositorio",
-      "projectPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Repositorio\\InstalacionProyecto.Repositorio.csproj",
+      "projectPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Repositorio\\InstalacionProyecto.Repositorio.csproj",
       "packagesPath": "C:\\Users\\Tonchi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Repositorio\\obj\\",
+      "outputPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Repositorio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1777,11 +1777,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.BD\\InstalacionProyecto.BD.csproj": {
-              "projectPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.BD\\InstalacionProyecto.BD.csproj"
+            "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.BD\\InstalacionProyecto.BD.csproj": {
+              "projectPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.BD\\InstalacionProyecto.BD.csproj"
             },
-            "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {
-              "projectPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj"
+            "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {
+              "projectPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj"
             }
           }
         }

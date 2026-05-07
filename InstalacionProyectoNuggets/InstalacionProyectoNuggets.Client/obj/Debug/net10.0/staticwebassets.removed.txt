@@ -1,0 +1,3 @@
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyectoNuggets\InstalacionProyectoNuggets.Client\wwwroot\appsettings.json
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyectoNuggets\InstalacionProyectoNuggets.Client\Layout\ReconnectModal.razor.js
+C:\Users\Tonchi\source\repos\InstalacionProyecto\InstalacionProyectoNuggets\InstalacionProyectoNuggets.Client\wwwroot\appsettings.Development.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x//uDKXQnIQ=",
+  "dgSpecHash": "EBL9kBwm3sg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets.Client\\InstalacionProyectoNuggets.Client.csproj",
+  "projectFilePath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyectoNuggets\\InstalacionProyectoNuggets.Client\\InstalacionProyectoNuggets.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tonchi\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.7\\microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512",
     "C:\\Users\\Tonchi\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.7\\microsoft.aspnetcore.authorization.10.0.7.nupkg.sha512",

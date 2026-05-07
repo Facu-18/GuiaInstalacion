@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {}
+    "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {
+    "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj",
         "projectName": "InstalacionProyecto.Shared",
-        "projectPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj",
+        "projectPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\InstalacionProyecto.Shared.csproj",
         "packagesPath": "C:\\Users\\Tonchi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tonchi\\source\\repos\\InstalacionProyecto\\InstalacionProyecto.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Tonchi\\OneDrive\\Escritorio\\InstalacionProyecto\\InstalacionProyecto.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -48,6 +49,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
